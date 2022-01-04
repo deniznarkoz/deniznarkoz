@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @deniznarkoz
+- 👀 I’m interested in backend development
+- 📫 How to reach me @denizintepe
